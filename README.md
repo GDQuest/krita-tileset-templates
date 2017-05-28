@@ -1,6 +1,6 @@
 # Tilemap template for Krita Tiled and Photoshop
 
-Produce your game's levels faster with this top-down tilemap template! It comes with the PSD, TMX and TSX files.
+Produce your game's levels faster with this top-down tilemap template! It comes with the PSD, TMX and TSX files. The map files require [Tiled 1.0](http://www.mapeditor.org/2017/05/24/tiled-1-0-0-released.html)!
 
 [Imgur](http://i.imgur.com/FJaAxSL.png)
 
